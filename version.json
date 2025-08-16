@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "files": [
+    "bgm_game.ogg",
+    "bgm_main.ogg",
+    "sfx_button.mp3",
+    "sfx_card.mp3",
+    "sfx_emoji.mp3",
+    "sfx_failure.mp3",
+    "sfx_go.mp3",
+    "sfx_no.mp3",
+    "sfx_success.mp3",
+    "sfx_timer.mp3",
+    "sfx_transition.mp3"
+  ]
+}
